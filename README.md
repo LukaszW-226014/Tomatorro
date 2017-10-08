@@ -1,1 +1,1 @@
-Android game app with using LibGDX
+Android game app with using LibGDX ver. alpha0
